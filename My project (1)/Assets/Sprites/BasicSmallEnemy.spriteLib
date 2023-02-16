@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle
+    m_Hash: 1008081451
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: 719368820
+      m_Sprite: {fileID: -566517269, guid: 267f6404634de4868a9cab70a94595a5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -566517269, guid: 267f6404634de4868a9cab70a94595a5, type: 3}
+    - m_Name: Entry_0
+      m_Hash: 874506106
+      m_Sprite: {fileID: -964130240, guid: 267f6404634de4868a9cab70a94595a5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -964130240, guid: 267f6404634de4868a9cab70a94595a5, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: attack
+    m_Hash: 130035003
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: 719368820
+      m_Sprite: {fileID: -1376184675, guid: 267f6404634de4868a9cab70a94595a5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1376184675, guid: 267f6404634de4868a9cab70a94595a5, type: 3}
+    - m_Name: Entry_0
+      m_Hash: 874506106
+      m_Sprite: {fileID: 102431388, guid: 267f6404634de4868a9cab70a94595a5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 102431388, guid: 267f6404634de4868a9cab70a94595a5, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  m_PrimaryLibraryGUID: 49ad6e693bcd44cc29a7811c8bd65432

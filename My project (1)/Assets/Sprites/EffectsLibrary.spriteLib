@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Slash
+    m_Hash: 101673205
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: 719368820
+      m_Sprite: {fileID: -1205895805, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1205895805, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+    - m_Name: Entry_0
+      m_Hash: 874506106
+      m_Sprite: {fileID: 1068078479, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1068078479, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+    - m_Name: Entry_1
+      m_Hash: 51959788
+      m_Sprite: {fileID: 51366921, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 51366921, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+    - m_Name: Entry_2
+      m_Hash: 437356118
+      m_Sprite: {fileID: 49102244, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 49102244, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+    - m_Name: Entry_3
+      m_Hash: 756463296
+      m_Sprite: {fileID: 918060585, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 918060585, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+    - m_Name: Entry_4
+      m_Hash: 863118179
+      m_Sprite: {fileID: -884719561, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -884719561, guid: c97ffdc9e3a684e9195ddad81c0036be, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 6
+  m_PrimaryLibraryGUID: 
