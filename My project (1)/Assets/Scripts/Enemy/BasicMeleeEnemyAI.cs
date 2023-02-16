@@ -123,7 +123,6 @@ public class BasicMeleeEnemyAI : MonoBehaviour
     {
         if(isAttacking && Time.time > attackTime)
         {
-            Debug.Log("Attack Resolved");
             isAttacking = false;
             currentAnimation = BasicMeleeAnimations.RESOLVE_ATK;
             attackCooldown = Time.time + 1f;

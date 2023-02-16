@@ -41,7 +41,6 @@ public class MaterialChanger : MonoBehaviour
                 changeTime = Time.time + duration;
                 currentMaterial = secondaryMaterial;
                 sprite.material = currentMaterial;
-                Debug.Log("MATERIAL CHANGED");
             }
         }
     }
