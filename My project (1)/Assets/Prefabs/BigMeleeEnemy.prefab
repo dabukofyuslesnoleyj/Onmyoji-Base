@@ -129,6 +129,8 @@ GameObject:
   - component: {fileID: 2951738730089531333}
   - component: {fileID: 2951738730089531328}
   - component: {fileID: 3176476263947720325}
+  - component: {fileID: 2125083876962410861}
+  - component: {fileID: 2218711196674900989}
   m_Layer: 7
   m_Name: BigMeleeEnemy
   m_TagString: Untagged
@@ -342,6 +344,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   secondaryMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+--- !u!114 &2125083876962410861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2951738730089531387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 419ca6b096760411f84a02d499829257, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2218711196674900989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2951738730089531387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce4d3249eb01f4246bc9c4027985584f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2093579806263561945
 PrefabInstance:
   m_ObjectHideFlags: 0
