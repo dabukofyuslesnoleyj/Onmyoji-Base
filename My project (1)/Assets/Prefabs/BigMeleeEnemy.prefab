@@ -198,7 +198,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 1479401340, guid: 3d817c5626a0841b5abd97d31dd35c76, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.32, y: 0.32}
@@ -356,6 +356,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 419ca6b096760411f84a02d499829257, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  attackPrefab: {fileID: 8448175301463365679, guid: 1b33fdefd9214425cb42e992829ae720, type: 3}
+  shootingSpeed: 4
 --- !u!114 &2218711196674900989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -368,6 +370,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce4d3249eb01f4246bc9c4027985584f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  visionRadius: 3
+  attackRadius: 1
+  windUpTime: 1
+  moveSpeed: 1
 --- !u!1001 &2093579806263561945
 PrefabInstance:
   m_ObjectHideFlags: 0
